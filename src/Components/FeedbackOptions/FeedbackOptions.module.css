@@ -1,0 +1,14 @@
+.button {
+  background-color: rgb(221, 120, 53);
+  min-height: 50px;
+  min-width: 75px;
+  border-radius: 10px;
+  border-color: floralwhite;
+  color: floralwhite;
+  font-size: 20px;
+  font-weight: 800;
+}
+
+.button:not(:last-child) {
+  margin-right: 10px;
+}
